@@ -1,1 +1,5 @@
 BRANCHING AND FETCHING AND PULLING
+
+We fetched
+
+Now we pull
